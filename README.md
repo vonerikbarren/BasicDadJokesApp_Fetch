@@ -2,7 +2,7 @@
 
 
 ### Section 1 - Overview 
-- This component demonstrates a quick api call with axios. 
+- This component demonstrates a quick API call with axios. 
 
 
 ### Section 2 - Purpose 
